@@ -14,4 +14,4 @@ If you’re unfamiliar, rock paper scissors is a hand game for two or more playe
 
 
 Now that you have the rules down, you can start thinking about how they might translate to Python code.
-So I have designed this project such a way that you can play with your opponent(Computer) when you are feeling bore alone.In this project I have used conditional expression(If, Else & Elif Statement). So this is a very simple & interesting Project.
+So I have designed this project such a way that you can play with your opponent(Computer) when you are feeling bore alone.In this project I have used conditional expression(If, Else & Elif Statement). So this is a very simple & interesting  game Project.
